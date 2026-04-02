@@ -14,6 +14,8 @@ A organização das pastas dentro de lib/app foi dividida da seguinte forma:
 
 - Views (/views): Contém apenas a interface do usuário (UI). Aqui estão as telas de Splash, Login, Cadastro e Home. Utilizamos o pacote validatorless para garantir que o usuário preencha os campos corretamente antes de disparar qualquer ação.
 
+<img width="781" height="427" alt="image" src="https://github.com/user-attachments/assets/c7175355-92ab-4966-9cb2-772379b3e594" />
+
 ### Fluxo de Funcionamento
 
 1. O app inicia pela SplashPage (3 segundos).
