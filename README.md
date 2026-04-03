@@ -1,5 +1,5 @@
 ### Estrutura do Projeto - P1 (Desenvolvimento de Sistemas Móveis)
-
+Ana JUlia Gouveia Mazzi e Ana Luiza Soares 
 Para esta atividade, adotamos uma arquitetura baseada em Camadas de Responsabilidade, garantindo que a lógica de negócio, os dados e a interface visual fiquem separados. Isso facilita a manutenção e segue as boas práticas pedidas em aula.
 
 ### Arquitetura Adotada
